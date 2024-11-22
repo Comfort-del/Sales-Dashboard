@@ -7,6 +7,7 @@ This project seeks to reveal insights from the fruit  and vegetable datasets. In
 - Which country purchases the most product?
 - The market trend across the year?
 - Market trend in each country?
+- Interactive Dashboard <a href=https://github.com/Comfort-del/Sales-Dashboard/blob/main/Comfort%20Quansah%20project%20(1).xlsx>View Dahboard</a>
 ## Process
 - Convert the dataset into a table format.
 - Apply conditional formatting in key areas.
